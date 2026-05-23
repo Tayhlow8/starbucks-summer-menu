@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" fill="none">
+  <defs>
+    <clipPath id="pb-body">
+      <ellipse cx="36" cy="43" rx="12.5" ry="15"/>
+    </clipPath>
+  </defs>
+
+  <!-- outer ring -->
+  <circle cx="36" cy="36" r="33" stroke="#006242" stroke-width="1.6"/>
+
+  <!-- leaf crown — 5 curved leaves fanning from body top -->
+  <path d="M36 28 C36 23 35.5 17 36 11 C36.5 17 36 23 36 28Z" fill="#006242"/>
+  <path d="M35 28 C33.5 22 31.5 17 28 13 C30 17 33 22 35 28Z" fill="#006242"/>
+  <path d="M37 28 C38.5 22 40.5 17 44 13 C42 17 39 22 37 28Z" fill="#006242"/>
+  <path d="M34 27 C31 21 28 17 23 14 C26 17 30.5 22 34 27Z" fill="#006242"/>
+  <path d="M38 27 C41 21 44 17 49 14 C46 17 41.5 22 38 27Z" fill="#006242"/>
+
+  <!-- pineapple body -->
+  <ellipse cx="36" cy="43" rx="12.5" ry="15" fill="#EBF5EF" stroke="#006242" stroke-width="1.5"/>
+
+  <!-- diamond crosshatch — clipped to body -->
+  <g clip-path="url(#pb-body)" stroke="#006242" stroke-width="0.85" opacity="0.42">
+    <!-- lines going ↘ -->
+    <line x1="-2" y1="28" x2="42" y2="72"/>
+    <line x1="4"  y1="28" x2="48" y2="72"/>
+    <line x1="10" y1="28" x2="54" y2="72"/>
+    <line x1="16" y1="28" x2="60" y2="72"/>
+    <line x1="22" y1="28" x2="66" y2="72"/>
+    <line x1="28" y1="28" x2="72" y2="72"/>
+    <!-- lines going ↙ -->
+    <line x1="74" y1="28" x2="30" y2="72"/>
+    <line x1="68" y1="28" x2="24" y2="72"/>
+    <line x1="62" y1="28" x2="18" y2="72"/>
+    <line x1="56" y1="28" x2="12" y2="72"/>
+    <line x1="50" y1="28" x2="6"  y2="72"/>
+    <line x1="44" y1="28" x2="0"  y2="72"/>
+  </g>
+
+  <!-- body outline redrawn on top -->
+  <ellipse cx="36" cy="43" rx="12.5" ry="15" stroke="#006242" stroke-width="1.5" fill="none"/>
+</svg>

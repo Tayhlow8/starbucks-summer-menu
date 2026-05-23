@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" fill="none">
+  <!-- outer ring -->
+  <circle cx="36" cy="36" r="33" stroke="#006242" stroke-width="1.6"/>
+
+  <!-- straw (goes through dome lid) -->
+  <rect x="38" y="8" width="2.8" height="22" rx="1.4" fill="#006242"/>
+
+  <!-- dome lid -->
+  <path d="M24 26 C24 16 48 16 48 26 L47 30 L25 30 Z"
+        fill="#006242" fill-opacity="0.1" stroke="#006242" stroke-width="1.3" stroke-linejoin="round"/>
+
+  <!-- lid rim line -->
+  <line x1="25" y1="30" x2="47" y2="30" stroke="#006242" stroke-width="1.1"/>
+
+  <!-- cup body — slightly tapered like a cold brew cup -->
+  <path d="M26 30 L28.5 58 Q29 60 31 60 L41 60 Q43 60 43.5 58 L46 30 Z"
+        fill="#EBF5EF" stroke="#006242" stroke-width="1.3"/>
+
+  <!-- ice cubes -->
+  <rect x="29" y="33" width="5.5" height="4.5" rx="1" fill="white" stroke="#006242" stroke-width="0.9" opacity="0.55"/>
+  <rect x="36" y="35" width="5"   height="4.5" rx="1" fill="white" stroke="#006242" stroke-width="0.9" opacity="0.55"/>
+  <rect x="29" y="41" width="4.5" height="4"   rx="1" fill="white" stroke="#006242" stroke-width="0.9" opacity="0.45"/>
+  <rect x="36" y="40" width="5"   height="4.5" rx="1" fill="white" stroke="#006242" stroke-width="0.9" opacity="0.45"/>
+
+  <!-- Starbucks badge circle on cup -->
+  <circle cx="36" cy="52" r="6" fill="#EBF5EF" stroke="#006242" stroke-width="1.2"/>
+
+  <!-- simplified mermaid star inside badge -->
+  <path d="M36 47.2 L37.2 50.2 L40.4 50.2 L37.9 52.1 L38.9 55.1 L36 53.2 L33.1 55.1 L34.1 52.1 L31.6 50.2 L34.8 50.2 Z"
+        fill="#006242" opacity="0.8"/>
+</svg>
