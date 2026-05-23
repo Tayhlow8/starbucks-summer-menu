@@ -97,19 +97,19 @@ const menuItems = [
 const featureBullets = [
   {
     label: "New tropical flavors",
-    image: "/assets/svg/pineapple-bullet.svg",
+    image: "/assets/figma/Pineapple%20bullet.png",
   },
   {
     label: "Cold brews & shaken espresso",
-    image: "/assets/svg/cold-brew-bullet.svg",
+    image: "/assets/figma/cold%20brew%20bullet.png",
   },
   {
     label: "New options to pair",
-    image: "/assets/svg/bites-bullet.svg",
+    image: "/assets/figma/bites%20bullet.png",
   },
   {
     label: "Limited seasonal edition",
-    image: "/assets/svg/limited-edd-bullet.svg",
+    image: "/assets/figma/limited%20edd%20bullet.png",
   },
 ];
 
