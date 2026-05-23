@@ -1,4 +1,4 @@
-import SummerPhysics from "@/components/SummerPhysics";
+import IceParticles from "@/components/IceParticles";
 import SiteHeader from "@/components/SiteHeader";
 import StickyGallery from "@/components/StickyGallery";
 import overlayImg from "@/assets/3d effect overlay.png";
@@ -97,19 +97,19 @@ const menuItems = [
 const featureBullets = [
   {
     label: "New tropical flavors",
-    image: "/assets/figma/Pineapple%20bullet.png",
+    image: "/assets/svg/tropical flavors icon.svg",
   },
   {
     label: "Cold brews & shaken espresso",
-    image: "/assets/figma/cold%20brew%20bullet.png",
+    image: "/assets/svg/cold brews icon.svg",
   },
   {
     label: "New options to pair",
-    image: "/assets/figma/bites%20bullet.png",
+    image: "/assets/svg/focaccia icon.svg",
   },
   {
     label: "Limited seasonal edition",
-    image: "/assets/figma/limited%20edd%20bullet.png",
+    image: "/assets/svg/sun icon.svg",
   },
 ];
 
@@ -119,7 +119,7 @@ export default function Home() {
       <SiteHeader />
 
       <section id="top" className="hero-section">
-        <SummerPhysics />
+        <IceParticles />
 
         <h1>Summer</h1>
         <img

@@ -207,7 +207,7 @@ a {
   padding: 0;
   position: absolute;
   right: clamp(28px, 7.2vw, 104px);
-  width: 282px;
+  width: 360px;
   z-index: 5;
 }
 
@@ -215,18 +215,18 @@ a {
   align-items: center;
   color: var(--green);
   display: grid;
-  font-size: 15px;
+  font-size: 24px;
   font-weight: 950;
   gap: 10px;
-  grid-template-columns: 61px 1fr;
+  grid-template-columns: 80px 1fr;
   letter-spacing: 1.2px;
   line-height: 1.15;
 }
 
 .hero-icon {
-  height: 43px;
+  height: 60px;
   object-fit: contain;
-  width: 71px;
+  width: 80px;
 }
 
 .menu-section h2,
