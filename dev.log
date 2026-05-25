@@ -1,0 +1,323 @@
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.1.3:3001
+
+ ✓ Starting...
+ ✓ Ready in 2.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 9s (566 modules)
+ GET / 200 in 10646ms
+ ✓ Compiled in 543ms (552 modules)
+ ✓ Compiled in 303ms (566 modules)
+ GET / 200 in 189ms
+ ✓ Compiled in 469ms (566 modules)
+ GET / 200 in 130ms
+ ✓ Compiled in 286ms (566 modules)
+ GET / 200 in 104ms
+ ✓ Compiled in 265ms (566 modules)
+ GET / 200 in 117ms
+ ✓ Compiled in 343ms (566 modules)
+ GET / 200 in 218ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 502ms (552 modules)
+ ✓ Compiled in 258ms (566 modules)
+ GET / 200 in 118ms
+ ✓ Compiled in 287ms (566 modules)
+ GET / 200 in 132ms
+ ✓ Compiled in 221ms (566 modules)
+ GET / 200 in 135ms
+ ✓ Compiled in 233ms (566 modules)
+ GET / 200 in 114ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 362ms (552 modules)
+ ✓ Compiled in 402ms (566 modules)
+ GET / 200 in 167ms
+ ✓ Compiled in 496ms (566 modules)
+ GET / 200 in 199ms
+ ✓ Compiled in 1171ms (566 modules)
+ GET / 200 in 220ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 531ms (566 modules)
+ GET / 200 in 244ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 396ms (552 modules)
+ ✓ Compiled in 366ms (566 modules)
+ GET / 200 in 146ms
+ ✓ Compiled in 369ms (566 modules)
+ GET / 200 in 207ms
+ ✓ Compiled in 263ms (566 modules)
+ GET / 200 in 155ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz'
+ ✓ Compiled in 428ms (566 modules)
+ GET / 200 in 181ms
+ ✓ Compiled in 274ms (566 modules)
+ GET / 200 in 151ms
+ ✓ Compiled in 843ms (566 modules)
+ ✓ Compiled in 285ms (566 modules)
+ ✓ Compiled in 287ms (566 modules)
+ ✓ Compiled in 340ms (566 modules)
+ GET / 200 in 809ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 286ms (566 modules)
+ GET / 200 in 180ms
+ ✓ Compiled in 257ms (566 modules)
+ GET / 200 in 141ms
+ ✓ Compiled in 223ms (566 modules)
+ GET / 200 in 133ms
+ ✓ Compiled in 183ms (566 modules)
+ GET / 200 in 189ms
+ ✓ Compiled in 258ms (566 modules)
+ GET / 200 in 89ms
+ ✓ Compiled in 235ms (566 modules)
+ GET / 200 in 102ms
+ ✓ Compiled in 653ms (566 modules)
+ GET / 200 in 136ms
+ ✓ Compiled in 199ms (566 modules)
+ GET / 200 in 105ms
+ ✓ Compiled in 222ms (566 modules)
+ GET / 200 in 81ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\1.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\1.pack.gz'
+ ✓ Compiled in 389ms (566 modules)
+ GET / 200 in 157ms
+ ✓ Compiled in 253ms (566 modules)
+ GET / 200 in 173ms
+ ✓ Compiled in 283ms (326 modules)
+ GET / 200 in 97ms
+ ✓ Compiled in 200ms (566 modules)
+ GET / 200 in 147ms
+ ✓ Compiled in 201ms (566 modules)
+ GET / 200 in 134ms
+ ✓ Compiled in 374ms (566 modules)
+ ✓ Compiled in 238ms (566 modules)
+ ✓ Compiled in 233ms (566 modules)
+ ✓ Compiled in 261ms (566 modules)
+ ✓ Compiled in 215ms (566 modules)
+ ✓ Compiled in 1311ms (566 modules)
+ GET / 200 in 1027ms
+ ✓ Compiled in 487ms (326 modules)
+ GET / 200 in 160ms
+ ✓ Compiled in 306ms (566 modules)
+ GET / 200 in 163ms
+ ✓ Compiled in 221ms (566 modules)
+ GET / 200 in 94ms
+ ✓ Compiled in 280ms (566 modules)
+ GET / 200 in 113ms
+ ✓ Compiled in 521ms (566 modules)
+ GET / 200 in 430ms
+ ✓ Compiled in 326ms (566 modules)
+ GET / 200 in 142ms
+ ✓ Compiled in 226ms (566 modules)
+ GET / 200 in 123ms
+ ✓ Compiled in 209ms (566 modules)
+ GET / 200 in 114ms
+ ✓ Compiled in 247ms (566 modules)
+ GET / 200 in 110ms
+ ✓ Compiled in 176ms (566 modules)
+ GET / 200 in 129ms
+ ✓ Compiled in 193ms (566 modules)
+ GET / 200 in 145ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Restoring pack failed from C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development.pack.gz: Error: incorrect header check
+ ✓ Compiled in 507ms (566 modules)
+ GET / 200 in 261ms
+ ✓ Compiled in 261ms (566 modules)
+ GET / 200 in 136ms
+ ✓ Compiled in 404ms (566 modules)
+ GET / 200 in 205ms
+ ✓ Compiled in 404ms (566 modules)
+ GET / 200 in 351ms
+ ✓ Compiled in 261ms (566 modules)
+ GET / 200 in 119ms
+ GET / 200 in 691ms
+ ✓ Compiled in 339ms (566 modules)
+ GET / 200 in 197ms
+ ✓ Compiled in 268ms (566 modules)
+ GET / 200 in 139ms
+ ✓ Compiled in 429ms (566 modules)
+ GET / 200 in 217ms
+ ✓ Compiled in 248ms (566 modules)
+ GET / 200 in 141ms
+ ✓ Compiled in 222ms (566 modules)
+ GET / 200 in 115ms
+ ✓ Compiled in 328ms (566 modules)
+ GET / 200 in 125ms
+ ✓ Compiled in 411ms (566 modules)
+ GET / 200 in 147ms
+ ✓ Compiled in 226ms (566 modules)
+ GET / 200 in 112ms
+ ✓ Compiled in 298ms (566 modules)
+ GET / 200 in 99ms
+ ✓ Compiled in 287ms (566 modules)
+ GET / 200 in 181ms
+ ✓ Compiled in 510ms (566 modules)
+ GET / 200 in 399ms
+ ✓ Compiled in 318ms (566 modules)
+ GET / 200 in 147ms
+ ✓ Compiled in 238ms (566 modules)
+ GET / 200 in 154ms
+ ✓ Compiled in 567ms (566 modules)
+ GET / 200 in 150ms
+ ✓ Compiled in 192ms (566 modules)
+ GET / 200 in 101ms
+ ✓ Compiled in 261ms (566 modules)
+ GET / 200 in 247ms
+ ✓ Compiled in 214ms (566 modules)
+ GET / 200 in 236ms
+ ✓ Compiled in 213ms (566 modules)
+ GET / 200 in 116ms
+ ✓ Compiled in 380ms (566 modules)
+ GET / 200 in 132ms
+ ✓ Compiled in 355ms (566 modules)
+ GET / 200 in 156ms
+ ✓ Compiled in 241ms (566 modules)
+ GET / 200 in 111ms
+ ✓ Compiled in 271ms (566 modules)
+ GET / 200 in 101ms
+ ✓ Compiled in 282ms (566 modules)
+ GET / 200 in 174ms
+ ✓ Compiled in 346ms (566 modules)
+ GET / 200 in 139ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 4s (566 modules)
+ GET / 200 in 543ms
+ ✓ Compiled in 432ms (566 modules)
+ GET / 200 in 136ms
+ ✓ Compiled in 253ms (566 modules)
+ GET / 200 in 251ms
+ ✓ Compiled in 466ms (566 modules)
+ GET / 200 in 92ms
+ ✓ Compiled in 256ms (566 modules)
+ GET / 200 in 112ms
+ ✓ Compiled in 499ms (566 modules)
+ GET / 200 in 343ms
+ ✓ Compiled in 271ms (566 modules)
+ GET / 200 in 124ms
+ ✓ Compiled in 233ms (566 modules)
+ GET / 200 in 114ms
+ ✓ Compiled in 246ms (566 modules)
+ GET / 200 in 91ms
+ ✓ Compiled in 230ms (566 modules)
+ GET / 200 in 124ms
+ ✓ Compiled in 670ms (326 modules)
+ GET / 200 in 121ms
+ GET / 200 in 804ms
+ ✓ Compiled in 661ms (566 modules)
+ GET / 200 in 268ms
+ ✓ Compiled in 291ms (566 modules)
+ GET / 200 in 183ms
+ ✓ Compiled in 317ms (566 modules)
+ GET / 200 in 186ms
+ ✓ Compiled in 198ms (566 modules)
+ GET / 200 in 127ms
+ ✓ Compiled in 668ms (566 modules)
+ GET / 200 in 433ms
+ ✓ Compiled in 201ms (566 modules)
+ GET / 200 in 121ms
+ ✓ Compiled in 404ms (566 modules)
+ GET / 200 in 184ms
+ ✓ Compiled in 256ms (566 modules)
+ GET / 200 in 165ms
+ ✓ Compiled in 213ms (566 modules)
+ GET / 200 in 118ms
+ ✓ Compiled in 640ms (566 modules)
+ GET / 200 in 171ms
+ ✓ Compiled in 236ms (566 modules)
+ GET / 200 in 118ms
+ ✓ Compiled in 224ms (566 modules)
+ GET / 200 in 130ms
+ ✓ Compiled in 516ms (566 modules)
+ GET / 200 in 97ms
+ ✓ Compiled in 184ms (566 modules)
+ GET / 200 in 82ms
+ ✓ Compiled in 1794ms (566 modules)
+ GET / 200 in 260ms
+ ✓ Compiled in 458ms (566 modules)
+ GET / 200 in 530ms
+ ✓ Compiled in 699ms (566 modules)
+ GET / 200 in 363ms
+ ✓ Compiled in 447ms (566 modules)
+ GET / 200 in 285ms
+ ✓ Compiled in 282ms (566 modules)
+ GET / 200 in 118ms
+ ✓ Compiled in 534ms (566 modules)
+ GET / 200 in 250ms
+ ✓ Compiled in 301ms (566 modules)
+ GET / 200 in 119ms
+ ✓ Compiled in 311ms (566 modules)
+ GET / 200 in 168ms
+ ✓ Compiled in 532ms (566 modules)
+ GET / 200 in 236ms
+ ✓ Compiled in 293ms (566 modules)
+ GET / 200 in 121ms
+ ✓ Compiled in 476ms (566 modules)
+ GET / 200 in 261ms
+ ✓ Compiled in 319ms (566 modules)
+ GET / 200 in 168ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 329ms (566 modules)
+ GET / 200 in 161ms
+ ✓ Compiled in 261ms (566 modules)
+ GET / 200 in 105ms
+ ✓ Compiled in 245ms (566 modules)
+ GET / 200 in 221ms
+ ✓ Compiled in 176ms (566 modules)
+ GET / 200 in 101ms
+ ⨯ ./app/globals.css:795:1
+Syntax error: C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\app\globals.css Unclosed block
+
+ [90m 793 | [39m[33m}[39m
+ [90m 794 | [39m
+[1m[31m>[39m[22m[90m 795 | [39m[36m@media[39m[36m [39m[36m(max-width: 1024px)[39m [33m{[39m
+ [90m     | [39m[1m[31m^[39m[22m
+ [90m 796 | [39m  [33m.physics-layer[39m [33m{[39m
+ [90m 797 | [39m    display[33m:[39m none[33m;[39m
+ ○ Compiling /_error ...
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:795:1
+Syntax error: C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\app\globals.css Unclosed block
+
+ [90m 793 | [39m[33m}[39m
+ [90m 794 | [39m
+[1m[31m>[39m[22m[90m 795 | [39m[36m@media[39m[36m [39m[36m(max-width: 1024px)[39m [33m{[39m
+ [90m     | [39m[1m[31m^[39m[22m
+ [90m 796 | [39m  [33m.physics-layer[39m [33m{[39m
+ [90m 797 | [39m    display[33m:[39m none[33m;[39m
+ GET / 500 in 7210ms
+ GET / 500 in 464ms
+ GET / 500 in 65ms
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\tayna\OneDrive\Documentos\Starbucks summer menu\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ GET / 500 in 307ms
+ GET / 500 in 55ms
+ ✓ Compiled /_error in 529ms (913 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 382ms
+ GET / 200 in 315ms
+ ✓ Compiled in 399ms (913 modules)
+ GET / 200 in 180ms
+ ✓ Compiled in 288ms (913 modules)
+ GET / 200 in 98ms
+ ✓ Compiled in 367ms (913 modules)
+ GET / 200 in 113ms
+ ✓ Compiled in 224ms (913 modules)
+ GET / 200 in 117ms
+ ✓ Compiled in 365ms (913 modules)
+ GET / 200 in 319ms
+ ✓ Compiled in 321ms (913 modules)
+ GET / 200 in 104ms
+ ✓ Compiled in 261ms (913 modules)
+ GET / 200 in 107ms
+ ✓ Compiled in 537ms (913 modules)
+ GET / 200 in 255ms
+ ✓ Compiled in 748ms (913 modules)
+ GET / 200 in 458ms
+ ✓ Compiled in 656ms (520 modules)
+ GET / 200 in 133ms
+ ✓ Compiled in 394ms (913 modules)
+ GET / 200 in 183ms
+ ✓ Compiled in 294ms (913 modules)
+ GET / 200 in 115ms

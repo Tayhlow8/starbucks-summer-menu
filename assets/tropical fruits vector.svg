@@ -1,0 +1,455 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m519.04 452.56c0 0-37.53-56.18 30.88-86.5 0 0 35.24 62.31-30.88 86.5z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m532.45 462.03c0 0 23.32-63.41 88.09-25.95 0 0-29.63 65.16-88.09 25.95z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m74.19 520.09c0 0 112.33-48.85 160.62 80.83l-40.71 16.42c0 0-32.85-94.26-119.91-97.25z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m216.87 617.34c0 0-47.89-106.67-4.76-228.76 0 0 58.92 74.63 22.7 228.76z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m265.8 617.34c0 0-3.13-101.72 103.64-142.37 0 0-130.8-21.23-144.36 135.36z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m227.89 586.43c-56.1 1.07-94.33 57.98-103.2 123.95-12.49 92.87-9.63 176.3 104.11 175.9 122.45-0.43 123.28-80.19 107-177.03-14.56-86.58-50.09-123.91-107.91-122.82z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="m555.56 738.81h335.54c0 0-39.26 151.76-167.77 151.99-155.07 0.29-167.77-151.99-167.77-151.99z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp8">
+			<path d="m386.5 794.79l303.08-143.97c0 0 29.65 153.93-86.32 209.28-139.95 66.8-216.76-65.31-216.76-65.31z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp9">
+			<path d="m546.09 188.43c0 0-67.5-3.07-51.37-76.13 0 0 71.07 8.55 51.37 76.13z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #f2e7e7 } 
+		.s1 { fill: #89a037 } 
+		.s2 { fill: #71832c } 
+		.s3 { fill: #f3b33f } 
+		.s4 { fill: #f4c043 } 
+		.s5 { fill: #f2c544 } 
+		.s6 { fill: #f6cb49 } 
+		.s7 { fill: #f7d46d;stroke: #f6cb49;stroke-miterlimit:10;stroke-width: .9 } 
+		.s8 { fill: #fae194 } 
+		.s9 { fill: #f8d97b;stroke: #f6cb49;stroke-miterlimit:10;stroke-width: 6 } 
+		.s10 { fill: #fbe8ad } 
+	</style>
+	<g id="Pasta 1">
+		<g id="BACKGROUND">
+			<path id="&lt;Path&gt;" class="s0" d="m431 868.96c0 12.89-44.22 23.35-98.77 23.35-54.55 0-98.76-10.46-98.76-23.35 0-12.89 44.21-23.35 98.76-23.35 54.55 0 98.77 10.46 98.77 23.35z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m364.57 872.24c0 12.9-57.88 23.35-129.28 23.35-71.4 0-129.28-10.45-129.28-23.35 0-12.89 57.88-23.34 129.28-23.34 71.4 0 129.28 10.45 129.28 23.34z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m222.48 886.96c0 12.89-44.22 23.35-98.77 23.35-54.55 0-98.77-10.46-98.77-23.35 0-12.89 44.22-23.35 98.77-23.35 54.55 0 98.77 10.46 98.77 23.35z"/>
+		</g>
+		<g id="OBJECTS">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s1" d="m359.04 769.56c0 0-37.53-56.18 30.88-86.5 0 0 35.24 62.31-30.88 86.5z"/>
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s2" d="m430.71 674.61l-40.79 8.45-30.73 87.26c0 0 73.05 3.18 71.52-95.71z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s1" d="m372.45 779.03c0 0 23.32-63.41 88.09-25.95 0 0-29.63 65.16-88.09 25.95z"/>
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp2)">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s2" d="m491.39 781.08l-30.85-28-88.63 26.51c0 0 40.42 60.93 119.48 1.49z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m74.19 520.09c0 0 112.33-48.85 160.62 80.83l-40.71 16.42c0 0-32.85-94.26-119.91-97.25z"/>
+					<g id="&lt;Clip Group&gt;" clip-path="url(#cp3)">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m67.93 523.6c0 0 113.47-33.47 152.41 106.28l-47.24 31.31z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m216.87 617.34c0 0-47.89-106.67-4.76-228.76 0 0 58.92 74.63 22.7 228.76z"/>
+					<g id="&lt;Clip Group&gt;" clip-path="url(#cp4)">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m210.32 363.44l14.76 259.12 38.02-5.22 19.51-143.34z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m265.8 617.34c0 0-3.13-101.72 103.64-142.37 0 0-130.8-21.23-144.36 135.36z"/>
+					<g id="&lt;Clip Group&gt;" clip-path="url(#cp5)">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m379.33 474c0 0-119.14 1.34-132.75 133.72l44.38 9.62z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m227.89 586.43c-56.1 1.07-94.33 57.98-103.2 123.95-12.49 92.87-9.63 176.3 104.11 175.9 122.45-0.43 123.28-80.19 107-177.03-14.56-86.58-50.09-123.91-107.91-122.82z"/>
+					<g id="&lt;Clip Group&gt;" clip-path="url(#cp6)">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m154.5 610.86l-40.56 55.42 35.08 41.97 40.23-49.57z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m146.18 725.87l-34.99 57.4 37.57 47.61 40.58-50.54z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m146.84 842.7l-35.65 57.4 37.83 51.53 39.39-51.53z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m236.73 604.87l-42.56 54.69 44.78 51.91 34.76-51.91z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m236.73 725.87l-37.34 57.5 40 49.79 39.28-48.94z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m239.39 842.7l-42.41 59.19 41.97 52.96 40.4-51.91z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m187.46 540.12l-35.86 55.45 39.43 54.04 40.4-51.91z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m191.25 667.14l-37.64 49.1 42.49 59.15 39.84-55.82z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m192.36 788.22l-40.75 49.82 42.49 59.14 42.63-57.9z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m110.18 666.42l-43.7 49.82 42.5 59.15 37.2-61.38z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m110.18 788.22l-43.7 49.82 42.5 59.14 34.7-60.08z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m359.93 666.42l-43.7 49.82 42.5 59.15 37.2-61.38z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m359.93 788.22l-40.83 50.7 39.63 58.26 37.2-61.37z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m278 531.66l-38.61 63.21 38 54.74 36.61-60.63z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m277.46 667.14l-33.17 54.12 35.06 54.13 34.65-58.82z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m280.92 791.63l-37.59 47.37 36.02 58.18 33.79-60.91z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m312.3 601.98l-32.95 57.58 35.29 48.69 41.44-46.09z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m316.23 725.87l-32.29 56.08 32.32 48.93 42.73-43.43z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s4" d="m316.16 844.41l-32.22 54.37 30.7 52.85 44.35-47.34z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m151.6 650.79c3.46 0 6.26 3.92 6.26 8.77 0 4.84-2.8 8.76-6.26 8.76-3.46 0-6.27-3.92-6.27-8.76 0-4.85 2.81-8.77 6.27-8.77z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m233.94 650.79c3.46 0 6.26 3.92 6.26 8.77 0 4.84-2.8 8.76-6.26 8.76-3.46 0-6.26-3.92-6.26-8.76 0-4.85 2.8-8.77 6.26-8.77z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m316.28 650.79c3.46 0 6.26 3.92 6.26 8.77 0 4.84-2.8 8.76-6.26 8.76-3.46 0-6.26-3.92-6.26-8.76 0-4.85 2.8-8.77 6.26-8.77z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m187.9 712.5c3.46 0 6.27 3.92 6.27 8.76 0 4.85-2.81 8.77-6.27 8.77-3.46 0-6.26-3.92-6.26-8.77 0-4.84 2.8-8.76 6.26-8.76z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m279.15 712.5c3.46 0 6.26 3.92 6.26 8.76 0 4.85-2.8 8.77-6.26 8.77-3.46 0-6.27-3.92-6.27-8.77 0-4.84 2.81-8.76 6.27-8.76z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m240.2 776.68c3.46 0 6.26 3.93 6.26 8.77 0 4.84-2.8 8.76-6.26 8.76-3.46 0-6.26-3.92-6.26-8.76 0-4.84 2.8-8.77 6.26-8.77z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m144.09 767.91c3.46 0 6.26 3.93 6.26 8.77 0 4.84-2.8 8.77-6.26 8.77-3.46 0-6.26-3.93-6.26-8.77 0-4.84 2.8-8.77 6.26-8.77z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m194.17 832.02c3.45 0 6.26 3.92 6.26 8.77 0 4.84-2.81 8.76-6.26 8.76-3.46 0-6.27-3.92-6.27-8.76 0-4.85 2.81-8.77 6.27-8.77z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m279.15 832.02c3.46 0 6.26 3.92 6.26 8.77 0 4.84-2.8 8.76-6.26 8.76-3.46 0-6.27-3.92-6.27-8.76 0-4.85 2.81-8.77 6.27-8.77z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m317.42 767.91c3.46 0 6.26 3.93 6.26 8.77 0 4.84-2.8 8.77-6.26 8.77-3.46 0-6.27-3.93-6.27-8.77 0-4.84 2.81-8.77 6.27-8.77z"/>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s5" d="m170.11 768.22c45.94 19.85 57.19 65.18 54.43 84.63-0.36 2.53 2.22 6.32 1.44 7.86-0.66 1.3-4.79 1.02-5.99 2.5-12.06 14.84-50.37 36.45-97.38 15.88-41.57-18.19-57.17-58.85-55.04-80.65 0.36-3.58-3.88-7.84-2.61-10.22 0.59-1.1 6.37-1.03 7.2-2.14 13.1-17.61 55.5-36.2 97.95-17.86z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s6" d="m147.81 770.84c32.44 8.14 54.71 30.73 49.76 50.44-4.95 19.72-35.26 29.1-67.69 20.95-32.44-8.14-54.71-30.73-49.76-50.45 4.95-19.71 35.26-29.09 67.69-20.94z"/>
+				</g>
+			</g>
+			<g id="g16731">
+				<g id="path1331-91">
+					<path id="&lt;Path&gt;" class="s7" d="m6.7 841.15c5.08 24.11 22.7 43.74 46.12 51.4 23.42 7.65 49.24 2.21 67.58-14.25 18.34-16.45 26.53-41.52 21.45-65.64"/>
+				</g>
+				<path id="path1333-41" class="s8" d="m73.72 830.17l5.03 57.57c0 0-24.45 4.99-32.72-9.62z"/>
+				<path id="path1333-8-71" class="s8" d="m76.33 828.95l39.08 37.51c0 0-7.9 20.67-28.23 16.78z"/>
+				<path id="path1333-7-81" class="s8" d="m71.98 829.39l-31.09 43.73c0 0-23.82-3.43-21.88-27.64z"/>
+				<path id="path1333-7-9-41" class="s8" d="m80.1 827.89l54.8-6.73c0 0 6.64 25.02-13.5 39.41z"/>
+			</g>
+			<g id="g16733">
+				<g id="path1331-93">
+					<path id="&lt;Path&gt;" class="s9" d="m319.54 742.28l-0.01-0.03c-23.81 6.33-42.5 24.95-48.92 48.74-6.42 23.79 0.35 49.28 17.75 66.74 17.36 17.43 42.76 24.31 66.55 18.04v0.02c23.8-6.41 42.42-25.09 48.76-48.91 6.34-23.81-0.52-49.28-17.97-66.68-17.31-17.26-42.54-24.07-66.16-17.92z"/>
+				</g>
+				<g id="g16734">
+					<path id="path1333-43" class="s10" d="m333.99 808.61l-55.34 9.28c0 0-9.87-19.54 6.02-34.44z"/>
+					<path id="path1333-8-73" class="s10" d="m335.35 811.16l-31.34 45.35c0 0-25.14-11.19-22.32-31.7z"/>
+					<path id="path1333-7-83" class="s10" d="m334.68 806.83l-45.29-28.77c0 0 8.89-23.42 30.05-23.5z"/>
+					<path id="path1333-7-9-43" class="s10" d="m336.6 814.86l12.18 50.01c0 0-23.85 11.56-40.33-5.85z"/>
+					<g id="path1333-44">
+						<path id="&lt;Path&gt;" class="s10" d="m340.23 809.48l57.2-8.22c0 0 6.34 24.13-7.79 33.2z"/>
+					</g>
+					<g id="path1333-8-74">
+						<path id="&lt;Path&gt;" class="s10" d="m338.86 806.94l35.29-41.11c0 0 21.07 6.75 18.32 27.27z"/>
+					</g>
+					<g id="path1333-7-84">
+						<path id="&lt;Path&gt;" class="s10" d="m339.55 811.26l45.39 28.61c0 0-4.41 27.08-29.82 24.23z"/>
+					</g>
+					<g id="path1333-7-9-44">
+						<path id="&lt;Path&gt;" class="s10" d="m337.6 803.23l-11.79-49.09c0 0 22.41-15.95 42.13 6.05z"/>
+					</g>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp7)">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp8)">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Clip Group&gt;" clip-path="url(#cp9)">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
