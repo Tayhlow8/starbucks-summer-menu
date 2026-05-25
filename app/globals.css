@@ -281,7 +281,7 @@ a {
   object-fit: cover;
   object-position: center top;
   position: absolute;
-  top: 190px;
+  top: calc(clamp(28px, 4vw, 50px) + clamp(6.18rem, 12.772vw, 15.45rem) - 24px);
   width: 479px;
   z-index: 3;
 }

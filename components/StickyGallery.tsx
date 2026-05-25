@@ -121,17 +121,19 @@ export default function StickyGallery() {
             </p>
           </div>
 
-          {/* Preview thumbnail — desktop only */}
-          <div className="sg-preview" aria-hidden="true">
-            {slides.map((s, i) => (
-              <div
-                key={i}
-                className={`sg-preview-frame${i === previewIndex ? " is-active" : ""}`}
-              >
-                <img src={s.image} alt="" />
-              </div>
-            ))}
-          </div>
+          {/* Preview thumbnail — desktop only, hidden on last slide */}
+          {active < slides.length - 1 && (
+            <div className="sg-preview" aria-hidden="true">
+              {slides.map((s, i) => (
+                <div
+                  key={i}
+                  className={`sg-preview-frame${i === previewIndex ? " is-active" : ""}`}
+                >
+                  <img src={s.image} alt="" />
+                </div>
+              ))}
+            </div>
+          )}
         </div>
 
       </div>
